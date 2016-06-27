@@ -1,5 +1,7 @@
 # Hangman-in-C-
 
+The goal of this project was to create a command line version of hanging in C++. After successful creation of the regular game the sneaky game had to be implemented which is described below.
+
 Sneaky Hangman - Description
 In a normal game of hangman there are two players, one, the server, thinks of a word and the other, the player, tries to guess the word by choosing letters. The server usually does not change the word after play has begun. This would be very sneaky.
 
